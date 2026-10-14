@@ -5,10 +5,10 @@
 
 # Customer Churn Analysis — Subscription Service
 
-**Author:** Leena A. Elsheikh · Data Analyst
+**Author:**  Leena A. Elsheikh · Data Analyst
 
 
-**Tools:** Power BI (Power Query) · R 4.6.1
+**Tools:**   R 4.6.1  · Power BI (Power Query)
 
 
 **Date:** October 2026
