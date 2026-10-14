@@ -1,4 +1,4 @@
-# Churn-Customer-Analysis
+# Churn-Customer-Analysis with R
 
 <img width="1280" height="640" alt="Image" src="https://github.com/user-attachments/assets/d9d8feee-073d-4c9d-a3a0-0aacca088f79" />
 
