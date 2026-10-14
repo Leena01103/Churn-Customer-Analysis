@@ -6,7 +6,11 @@
 # Customer Churn Analysis — Subscription Service
 
 **Author:** Leena A. Elsheikh · Data Analyst
+
+
 **Tools:** Power BI (Power Query) · R 4.6.1
+
+
 **Date:** October 2026
 
 A statistical analysis of what is associated with subscription cancellation, built for an imbalanced dataset where fewer than one in ten customers churned. The project covers data cleaning, descriptive comparisons, multivariable logistic regression, model evaluation suited to class imbalance, and one actionable recommendation.
