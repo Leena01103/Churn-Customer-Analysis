@@ -11,7 +11,7 @@
 
 A statistical analysis of what is associated with subscription cancellation, built for an imbalanced dataset where fewer than one in ten customers churned. The project covers data cleaning, descriptive comparisons, multivariable logistic regression, model evaluation suited to class imbalance, and one actionable recommendation.
 
-> 📄 **Full report (Arabic, 5 pages):** [`report/churn_analysis_report.pdf`](report/churn_analysis_report.pdf)
+
 
 ---
 
