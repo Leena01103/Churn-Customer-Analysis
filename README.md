@@ -118,6 +118,4 @@ Because 55% of customers already attend, the expected difference between trial g
 3. Place `subscriptions-churn.csv` on your machine and update the file path in Step 1 of `R/churn_analysis.R`.
 4. Run the script from top to bottom. Each step depends on the ones before it.
 
-## Use of AI assistance
 
-This project was completed with the help of an AI assistant (Claude, by Anthropic), which drafted much of the R code and report text. The analytical decisions, interpretation, review of results and final wording are the author's own.
